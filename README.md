@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Alvaro Serrano Zaldo
 #### Business Analytics and Big Data masters StudentI am GitHub Readme Generator's creator
-![Business Analytics and Big Data masters StudentI am GitHub Readme Generator's creator](https://www.canva.com/design/DAF9usvFgs8/hleCV_pSvuviV_IpQSGIEg/view?utm_content=DAF9usvFgs8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+(https://www.canva.com/design/DAF9usvFgs8/hleCV_pSvuviV_IpQSGIEg/view?utm_content=DAF9usvFgs8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 My focus is on leveraging data analysis and strategic insights to drive business growth and efficiency. I am dedicated to deepening my understanding of how advanced analytics and big data can be synergized with strategic business imperatives for organizational advancement.
 
