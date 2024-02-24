@@ -1,17 +1,15 @@
-### Hi there 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alvaroserranozaldo/)  
 
-I'm a Business Analytics and Big Data master's student with a foundational background in marketing and significant experience in renewable energies and luxury trading.
-
-## What I'm all about
+### Hi there 👋, Alvaro Serrano Zaldo
+#### Business Analytics and Big Data masters StudentI am GitHub Readme Generator's creator
+![Business Analytics and Big Data masters StudentI am GitHub Readme Generator's creator](https://www.canva.com/design/DAF9usvFgs8/hleCV_pSvuviV_IpQSGIEg/view?utm_content=DAF9usvFgs8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 My focus is on leveraging data analysis and strategic insights to drive business growth and efficiency. I am dedicated to deepening my understanding of how advanced analytics and big data can be synergized with strategic business imperatives for organizational advancement.
 
-## My commitment
-
 Committed to employing data-driven strategies and creative problem-solving to enhance business operations and marketing efforts, ensuring dynamic and efficient growth in diverse business environments.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroserranozaldo)](https://github.com/anuraghazra/github-readme-stats)
-
-## Looking forward
-
 Aspiring to leverage my expertise in data analysis, market research, and strategic marketing across various sectors, I aim to contribute to the digital transformation and sustainable growth of businesses and industries.
+
+Skills: Python / SQL / Jupyter Notebook / MongoDB / Atlas DB / Tableau / Looker Studio
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroserranozaldo)](https://github.com/anuraghazra/github-readme-stats)
