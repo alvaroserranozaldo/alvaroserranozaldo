@@ -9,6 +9,6 @@ Committed to employing data-driven strategies and creative problem-solving to en
 
 Aspiring to leverage my expertise in data analysis, market research, and strategic marketing across various sectors, I aim to contribute to the digital transformation and sustainable growth of businesses and industries.
 
-Skills: Python / SQL / Jupyter Notebook / MongoDB / Atlas DB / Tableau / Looker Studio
+Skills: Python / SQL / ML / Jupyter Notebook / MongoDB / Atlas DB / Tableau / Looker Studio
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroserranozaldo)](https://github.com/anuraghazra/github-readme-stats)
